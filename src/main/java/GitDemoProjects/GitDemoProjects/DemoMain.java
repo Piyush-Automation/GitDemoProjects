@@ -4,7 +4,7 @@ package GitDemoProjects.GitDemoProjects;
  * Hello world!
  *
  */
-public class App 
+public class DemoMain 
 {
     public static void main( String[] args )
     {
